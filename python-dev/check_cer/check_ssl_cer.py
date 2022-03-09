@@ -43,7 +43,7 @@ def send_mail(**expire_list):
     password = '123456789012'
     # gmail
     host = 'smtp.gmail.com'
-    to =['server@e-veb.com','thomson@e-veb.com','zero@e-veb.com','axel@e-veb.com','bob@e-veb.com','alexander@e-veb.com','hamilton@e-veb.com']
+    to =['server@e-ab.com','thomson@e-ab.com','zero@e-ab.com','axel@e-ab.com','bob@e-ab.com','alexander@e-ab.com','hamilton@e-ab.com']
     subject = 'ssl证书过期预警'
     d = ''
     d += '''\
